@@ -53,3 +53,6 @@
 /.vagrant/
 Thumbs.db
 /bin/phpzip.php
+/.settings/
+/.buildpath
+/.project
